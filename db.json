@@ -1,11 +1,38 @@
-{
-	"users": {
+	"users" [
+		{
 		"id": 100,
 		"firstname": "Ninnetta",
 		"lastname": "Adore",
 		"city": "Christchurch",
 		"country": "Spain",
 		"countryCode": "MA",
-		"email uses current data": "Ninnetta.Adore@gmail.com"
-	}
+		"email uses current data": "Ninnetta.Adore@gmail.com
+		}, 
+		{
+	"id": 75,
+	"firstname": "Nikki",
+	"lastname": "Karl",
+	"city": "Antananarivo",
+	"country": "Antarctica",
+	"countryCode": "KN",
+	"email uses current data": "Nikki.Karl@gmail.com"
+},
+		{
+	"id": 44,
+	"firstname": "Carmela",
+	"lastname": "Telfer",
+	"city": "Kathmandu",
+	"country": "Western Sahara",
+	"countryCode": "LA",
+	"email uses current data": "Carmela.Telfer@gmail.com"
+},{
+	"id": 84,
+	"firstname": "Berget",
+	"lastname": "Gibbeon",
+	"city": "Perth",
+	"country": "Greenland",
+	"countryCode": "TJ",
+	"email uses current data": "Berget.Gibbeon@gmail.com"
 }
+
+]
