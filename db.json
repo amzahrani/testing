@@ -1,1 +1,11 @@
-
+{
+	"users": {
+		"id": 100,
+		"firstname": "Ninnetta",
+		"lastname": "Adore",
+		"city": "Christchurch",
+		"country": "Spain",
+		"countryCode": "MA",
+		"email uses current data": "Ninnetta.Adore@gmail.com"
+	}
+}
